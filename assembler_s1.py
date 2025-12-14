@@ -1,4 +1,3 @@
-# assembler_stage1.py - ТОЛЬКО этап 1 (промежуточное представление)
 import yaml
 import sys
 
