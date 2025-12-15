@@ -1,0 +1,17 @@
+- command: load_const
+  B: 7
+  C: 769
+
+- command: read_mem
+  B: 4
+  C: 6
+  D: 575
+
+- command: write_mem
+  B: 7
+  C: 4
+  D: 150
+
+- command: abs
+  B: 0
+  C: 241
